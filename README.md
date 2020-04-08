@@ -45,19 +45,19 @@ Once every part of the project (milestones, schedule, budget etc...) have been a
 
 ### Open for application
 
-| Name             | Title                                  | Type              | Recurrence | Proposed by                                          |
-| ---------------- | -------------------------------------- | ----------------- | ---------- | ---------------------------------------------------- |
+| Name | Title | Type | Recurrence | Proposed by |
+| ---- | ----- | ---- | ---------- | ----------- |
 
 ### In Process
 
-| Name             | Title                                  | Type              | Recurrence | Assigned to                                          |
-| ---------------- | -------------------------------------- | ----------------- | ---------- | ---------------------------------------------------- |
+| Name | Title | Type | Recurrence | Assigned to |
+| ---- | ----- | ---- | ---------- | ----------- |
 
 
 ### Completed
 
-| Name             | Title                                  | Type              | Recurrence | Assigned to                                          |
-| ---------------- | -------------------------------------- | ----------------- | ---------- | ---------------------------------------------------- |
-| [XBP-01](XBP-01) | Wallet Application for Android Devices | 👨‍💻 Development | None       | [@snakewaypasser](https://github.com/snakewaypasser) |
-| [XBP-02](XBP-02) | GUI Desktop Wallet in ElectronJS       | 👨‍💻 Development | None       | [@mtardy](https://github.com/mtardy)                 |
-| [XBP-03](XBP-03) | X-Bank                                 | 👨‍💻 Development | Monthly    | [@denniselite](https://github.com/denniselite)       |
+| Name             | Title                                  | Repository                                                          | Amount | Completed by                                         |
+| ---------------- | -------------------------------------- | ------------------------------------------------------------------- | ------ | ---------------------------------------------------- |
+| [XBP-01](XBP-01) | Wallet Application for Android Devices | [android-wallet](https://github.com/X-Cash-official/android-wallet) | USD xxx   | [@snakewaypasser](https://github.com/snakewaypasser) |
+| [XBP-02](XBP-02) | GUI Desktop Wallet in ElectronJS       | [desktop-wallet](https://github.com/X-Cash-official/android-wallet) | USD xxx   | [@mtardy](https://github.com/mtardy)                 |
+
