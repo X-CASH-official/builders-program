@@ -14,9 +14,7 @@ The builders' program is designed to enable contributors to participate in the d
 - [Introduction](#introduction)
 - [Proposing a project](#proposing-a-project)
 - [X-Builder Project - XBP](#x-builder-project---xbp)
-  - [Open for application](#open-for-application)
-  - [In Process](#in-process)
-  - [Completed](#completed)
+
 
 ## Introduction
 
