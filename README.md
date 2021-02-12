@@ -29,7 +29,7 @@ In practice, a **Builder's Project** will follow the life cycle below:
 ## Proposing a project
 
 **You want to participate in improving the X-Cash Ecosystem but there are no current project that you can undertake?**  
-You can create an issue on this repository using the [project template]() to explain your idea and how you plan to achieve your goal.
+You can [create an issue](https://github.com/X-CASH-official/builders-program/issues/new/choose) on this repository using the BP proposition template to explain your idea and how you plan to achieve your goal.
 
 > *A project proposition that fails to follow the guidelines will not be considered by the X-Cash Foundation*
 
