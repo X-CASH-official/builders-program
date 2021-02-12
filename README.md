@@ -43,8 +43,8 @@ Once every part of the project (milestones, schedule, budget etc...) have been a
 
 ### Open for application
 
-| Name | Title | Type | Recurrence | Proposed by |
-| ---- | ----- | ---- | ---------- | ----------- |
+| Name | Title | Type | Proposed by |
+| ---- | ----- | ---- | ----------- |
 
 ### In Process
 
@@ -56,5 +56,5 @@ Once every part of the project (milestones, schedule, budget etc...) have been a
 
 | Name             | Title                                  | Repository                                                          | Reward | Completed by                                         |
 | ---------------- | -------------------------------------- | ------------------------------------------------------------------- | ------ | ---------------------------------------------------- |
-| [XBP-01](XBP-01) | Wallet Application for Android Devices | [android-wallet](https://github.com/X-Cash-Official/android-wallet) | 35M XCASH   | [@snakewaypasser](https://github.com/snakewaypasser) |
+| [BP-01](BP-01) | Wallet Application for Android Devices | [android-wallet](https://github.com/X-Cash-Official/android-wallet) | 35M XCASH   | [@snakewaypasser](https://github.com/snakewaypasser) |
 
