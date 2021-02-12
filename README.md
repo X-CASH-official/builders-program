@@ -1,6 +1,6 @@
 <div align=middle>
 
-<a align="center" href="https://x-network.io/xcash"><img src="header.png" alt="X-Cash Builder Program"></a>
+<a align="center" href="https://xcash.foundation"><img src="header.png" alt="X-Cash Builder Program"></a>
 
 </div>
 
@@ -23,8 +23,8 @@ The **builders' program** enables people to participate, develop and promote the
 In practice, a **Builder's Project** will follow the life cycle below:
 - A **Builder's Project - BP for short** is [proposed](#proposing-a-project) and/or validated by the **X-Cash Foundation**.
 - The project is listed [in this repository](#open-for-application) and open for application (if not yet assigned).
-- A member of the community apply to the project by filling the associated form.
-- The **X-Cash Foundation** core team will review all application and decide on the project assignation.
+- A member of the community applies to the project by filling the associated form.
+- Members of the **X-Cash Foundation**'s team will review all application and decide on the project assignation.
 
 ## Proposing a project
 
@@ -48,14 +48,13 @@ Once every part of the project (milestones, schedule, budget etc...) have been a
 
 ### In Process
 
-| Name | Title | Type | Recurrence | Assigned to |
-| ---- | ----- | ---- | ---------- | ----------- |
+| Name | Title | Type |  Assigned to |
+| ---- | ----- | ---- |  ----------- |
 
 
 ### Completed
 
-| Name             | Title                                  | Repository                                                          | Amount | Completed by                                         |
+| Name             | Title                                  | Repository                                                          | Reward | Completed by                                         |
 | ---------------- | -------------------------------------- | ------------------------------------------------------------------- | ------ | ---------------------------------------------------- |
-| [XBP-01](XBP-01) | Wallet Application for Android Devices | [android-wallet](https://github.com/X-Cash-official/android-wallet) | USD xxx   | [@snakewaypasser](https://github.com/snakewaypasser) |
-| [XBP-02](XBP-02) | GUI Desktop Wallet in ElectronJS       | [desktop-wallet](https://github.com/X-Cash-official/android-wallet) | USD xxx   | [@mtardy](https://github.com/mtardy)                 |
+| [XBP-01](XBP-01) | Wallet Application for Android Devices | [android-wallet](https://github.com/X-Cash-Official/android-wallet) | 35M XCASH   | [@snakewaypasser](https://github.com/snakewaypasser) |
 
