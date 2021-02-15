@@ -22,7 +22,7 @@ assignees: ''
 ### Prerequisites
 <!--- Explain the necessary skills needed to successfully complete this task. If you plan to undertake the project that you are proposing--->
 
-### Milestones / Develirables
+### Milestones / Deliverables
 <!--- Explain the different steps of the project and the expected timeline. As much as possible, please describe intermediary steps and the list of deliverables. It will help us decide together what we expect as a finished product.--->
 
 ### Additional information / Budgeting
