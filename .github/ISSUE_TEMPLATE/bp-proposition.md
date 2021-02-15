@@ -20,12 +20,11 @@ assignees: ''
 <!--- Describe the project in details, and why you believe is needed for the X-Cash project.--->
 
 ### Prerequisites
-<!--- Explain the necessary skills needed to successfully complete this task. If you plan to undertake the project that you are proposing--->
+<!--- Explain the necessary skills needed to successfully complete this task. If you plan to undertake the project you are proposing, you will be expected to give references on why/how you can successfully complete it.--->
 
 ### Milestones / Deliverables
 <!--- Explain the different steps of the project and the expected timeline. As much as possible, please describe intermediary steps and the list of deliverables. It will help us decide together what we expect as a finished product.--->
 
 ### Additional information / Budgeting
-<!--- Talk about the expected difficulties that you might encouter, as well as a budgeting and a detailed description of the different expenses to support your application. 
-
+<!--- Talk about the expected difficulties that you might encounter, as well as a budgeting and a detailed description of the different expenses to support your application. 
 You can either use XCASH or USD, but the USD/XCASH rate will be taken at the beginning of the project. --->
